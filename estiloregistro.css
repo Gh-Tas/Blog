@@ -93,9 +93,52 @@ nav h1 {
     }
 }
 
+main{
+    display: flex;
+    margin: auto;
+    background-color: #007bff;
+    width: 400px;
+    height: 500px;
+    margin-top: 20vh;
+    border-radius: 20px;
+}
+
+.container>h2{
+    position: absolute;
+    margin: auto;
+    margin-top: 20px;
+}
+
+form{
+    display: flex;
+    position: relative;
+    right: 0vh;
+    flex-direction: column;
+    margin: auto;
+    width: 300px;
+    padding: 20px;
+}
+
+input{
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+button{
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #ffffff;
+    color: black;
+    cursor: pointer;
+}
+
 footer {
     position: relative;
-    top: 60vh;
+    top: 22vh;
     background-color: #1b7af7;
     padding: 20px 0;
 }
