@@ -21,12 +21,14 @@
                 $senha = $_POST['senha'];
                 $nascimento = $_POST['nascimento'];
                 $descricao = $_POST['descricao'];
-
+                
+                echo "<div class='dados-usuario'>";
                 echo "<p>Nome: $nome</p>";
                 echo "<p>Email: $usuario</p>";
                 echo "<p>Senha: $senha</p>";
                 echo "<p>Nascimento: $nascimento</p>";
                 echo "<p>Descrição: $descricao</p>";
+                echo "</div>";
             }
             ?>
         </div>

@@ -118,20 +118,18 @@ nav h1 {
     color: black;
 }
 
-.perfil>p{
+.dados-usuario{
     position: relative;
-    top: 45vh;
-    text-align: justify;
-    margin-left: 60px;
-    padding-top: 10px;
+    text-align: center;
+    margin-top: 30vh;
     font-size: 20px;
     color: black;
 }
 
 .imagem-3x4 {
     position: relative;
-    bottom: 85vh;
-    left: 82vh;
+    bottom: 60vh;
+    left: 85vh;
     width: 300px; /* Ajuste a largura conforme necessário */
     height: 200px; /* Ajuste a altura conforme necessário */
    

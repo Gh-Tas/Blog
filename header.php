@@ -1,5 +1,5 @@
 <nav>
-    <h1>MeuBlog</h1>
+    <h1>SeuBlog</h1>
     <ul class="nav-links">
         <li><a href="perfil.php">Home</a></li>
         <li><a href="#">Sobre</a></li>
